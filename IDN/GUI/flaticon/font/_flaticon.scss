@@ -1,0 +1,71 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 15/08/2016 07:29
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-add-button:before { content: "\f100"; }
+.flaticon-add-button-1:before { content: "\f101"; }
+.flaticon-coins-stacks-money:before { content: "\f102"; }
+.flaticon-list:before { content: "\f103"; }
+.flaticon-mails:before { content: "\f104"; }
+.flaticon-management:before { content: "\f105"; }
+.flaticon-may-15-calendar-page-interface-symbol:before { content: "\f106"; }
+.flaticon-minus-symbol-inside-a-circle:before { content: "\f107"; }
+.flaticon-plus-symbol-in-a-rounded-black-square:before { content: "\f108"; }
+.flaticon-rubbish-bin:before { content: "\f109"; }
+.flaticon-shuffle:before { content: "\f10a"; }
+.flaticon-shuffle-1:before { content: "\f10b"; }
+.flaticon-technology:before { content: "\f10c"; }
+.flaticon-transfer:before { content: "\f10d"; }
+.flaticon-user:before { content: "\f10e"; }
+.flaticon-user-avatar-main-picture:before { content: "\f10f"; }
+    
+    $font-Flaticon-add-button: "\f100";
+    $font-Flaticon-add-button-1: "\f101";
+    $font-Flaticon-coins-stacks-money: "\f102";
+    $font-Flaticon-list: "\f103";
+    $font-Flaticon-mails: "\f104";
+    $font-Flaticon-management: "\f105";
+    $font-Flaticon-may-15-calendar-page-interface-symbol: "\f106";
+    $font-Flaticon-minus-symbol-inside-a-circle: "\f107";
+    $font-Flaticon-plus-symbol-in-a-rounded-black-square: "\f108";
+    $font-Flaticon-rubbish-bin: "\f109";
+    $font-Flaticon-shuffle: "\f10a";
+    $font-Flaticon-shuffle-1: "\f10b";
+    $font-Flaticon-technology: "\f10c";
+    $font-Flaticon-transfer: "\f10d";
+    $font-Flaticon-user: "\f10e";
+    $font-Flaticon-user-avatar-main-picture: "\f10f";

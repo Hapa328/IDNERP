@@ -1,0 +1,25 @@
+﻿/*@media (min-width: 768px){.navbar-toggle{
+display:none;}}*/
+
+
+/*@media (min-width: 768px) {
+    .navbar-collapse.collapse {
+        display: block !important;
+        height: auto !important;
+        padding-bottom: 0;
+        overflow: visible !important;
+    }
+}*/
+.navbar {
+    background-color:#000000;
+}
+.color-nombre {
+    color:#fff;
+}
+    .color-nombre:hover {
+        color:#47bae8;
+    }
+.posicion-imagen {
+    text-align:center;
+    
+}

@@ -1,0 +1,241 @@
+﻿/*body {
+    overflow-x:hidden;
+    background-color:#ffffff;
+   
+}*/
+
+/*Menu*/
+body {
+    overflow-x:hidden;
+}
+#barrasNegra2 {
+    background-color:#1de0f3;
+    border-radius:0;
+    /*position: relative;*/
+    min-height: 4px;
+   left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999997;
+    
+    /*position:absolute;*/
+}
+#barrasNegra {
+    background-color:#1de0f3;
+    border-radius:0;
+    /*position: relative;*/
+    min-height: 4px;
+   left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999997;
+    
+    /*position:absolute;*/
+}
+.color-lista {
+    font-size:15px;
+    margin-left:8% !important;
+}
+.color-nombre {
+    color:#aba7a7;
+    font-size:15px;
+}
+    .color-nombre:hover {
+        color:#ffffff;
+        font-size:15px;
+    }
+.posicion-imagen {
+    text-align:center;
+    
+}
+.ul-Usuario {
+    margin-top: 0;
+    margin-bottom: 18px;
+    list-style:none;
+}
+
+#navbar {
+    /*background:#eeeeee;
+     height:43px;*/
+    border-radius:0;
+    left: 0;
+    position: fixed;
+    top: 5px;
+    width: 100%;
+    z-index: 1000000;
+}
+.li-Menu {
+    float: left;
+    padding: 0 20px;
+    font-family: 'Myriad Pro';
+    border-left: 1px solid #ded9d9;
+    /*height:33px;*/
+    font-size: medium;
+    margin: 0;
+    position: relative;
+}
+
+
+
+
+/*Menu*/
+
+.font-label-vendedor {
+    color:#000;
+    font-size: 15px;
+}
+.icon-menu {
+    font-size: 20px;
+}
+.li-ruta {
+    float:left;
+}
+.menu-lateral-font2 {
+    right:15px;
+     left:15px;
+   
+}
+.menu-lateral-font {
+    margin-right:60px;
+   
+}
+#Nom-Usuario {
+    font-family:'Myriad Pro';
+    font-size:small;
+    color:#fff;
+    padding: 0 20px;
+    padding-top:6px;
+    margin:0;
+    
+}
+#link {
+    background-color:#ded9d9;
+    /*min-height:20px;*/
+    min-height:2px;
+    font-size:14px;
+    color:#000;
+    
+    left: 0;
+    position: fixed;
+    top: 60px;
+    width: 100%;
+    z-index: 999997;
+}
+.ruta {
+    /*padding:4px;*/
+    margin-top:2px;
+}
+
+    .li-Menu:hover {
+        /*background-color:#373333;*/
+        color:#fb5704;
+        border-bottom:3px solid #1de0f3;
+        /*color:#29c3e6;*/
+        /*margin-top:10px;*/
+    }
+
+.ul-Menu {
+   list-style:none;
+ 
+    margin: 0;
+     
+    /*padding:1.5%;*/
+    
+    
+   /*margin-top:5px;*/
+   left: 159px; /*width: 980px;*/ position: relative;
+  
+}
+.menu-lateral {
+    font-family:'Myriad Pro';
+}
+#li_inicio {
+    border:none;
+
+}
+.top-nota {
+   top:12px;
+}
+.top-cliente {
+    top:5px;
+}
+/*li a {
+    font-family:'Myriad Pro';
+}
+a {
+    text-align:center;
+    text-decoration:none;
+    
+    display: inherit; color: #fff;  position:relative; box-sizing: border-box; overflow: visible;
+}
+    a:hover {
+        text-decoration:none;
+        color:#fff;
+        
+       
+    }*/
+
+.color-label {
+    color:#000000;
+    text-align:left;
+}
+.label-surtido {
+    color:#079a17;
+    font-size:25px;
+    text-align:center;
+}
+#top-table {
+    top:15px;
+}
+#top-btnInfo {
+    top:7px;
+}
+
+#lateral-Menu1{
+    font-family: 'latoheavy';
+    font-size:medium;
+}
+
+table {  color: #333; font-family: Helvetica, Arial, sans-serif; width:100%; border-collapse: collapse;}
+td, th { border: 1px solid transparent; height: 30px; text-align: center; }
+th { background: #D3D3D3; font-weight: bold; }
+td { background: #FAFAFA; text-align: center; }
+tr:nth-child(even) td { background: #F1F1F1; }  
+tr:nth-child(odd) td { background: #FEFEFE; } 
+/*tr td:hover { background: #666; color: #FFF; }*/
+/*.mt {
+    margin-top: 25px;
+}*/
+.font-label-sub {
+    color:#000;
+    font-size:14px;
+   
+}
+.top-contenido {
+    top:10px;
+}
+
+.top-buttonCancelar {
+    margin-top:2%;
+}
+/*DATOS GENERALES*/
+.color-datosGenerales {
+    color:rgba(0, 0, 0, 0.7);
+    font-size:large;
+    font-weight:bold;
+}
+    .color-datosGenerales:hover {
+        color:rgba(0, 0, 0, 0.39);
+    }
+.size-iconplus {
+    font-size:medium;
+}
+.titulo {
+    color:#080808;
+    font-size:30px;
+    font-weight:bold;
+    font-family:'Myriad Pro';
+}
+/*DATOS GENERALES rgba(0, 0, 0, 0.18)*/
